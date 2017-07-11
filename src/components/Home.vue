@@ -12,7 +12,7 @@
   </md-board>
 
   <md-board id="slide3">
-    <p>Check out the Git repo on how to get a handle on this app</p>
+    <span>Check out the <a href="https://github.com/vijaykumaryenne/medrecapp"> <md-icon> storage </md-icon>Github Repo</a> on how to get a handle on this app</span>
   </md-board>
 </md-boards>   
       
